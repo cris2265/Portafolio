@@ -3,5 +3,45 @@
     grid-column-end: 3;
     grid-row-start: 2;
     grid-row-end: 3;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.pages  {
+    width: 20%;
+    height: 70%;
     border: 1px solid black;
+    border-radius: 10px;
+}
+.pages:hover {
+    transition: 3s;
+    background-color: rgb(253, 244, 231);
+    transform: rotateY(-360deg);
+}
+.pages img {
+    width: 10rem;
+    height: 10rem;
+}
+.pages a {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    padding: 1rem;
+}
+.infor {
+    color: rgb(21, 16, 16);
+}
+.titulo {
+    font-size: 3rem;
+}
+.descripcion {
+    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.github {
+    font-size: 1.5rem;
 }

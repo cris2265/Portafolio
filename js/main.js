@@ -1,5 +1,6 @@
 import { header } from "./header.js";
 import { perfil } from "./info.js";
+
 let root = document.querySelector(".root");
 
 let componentes = `
