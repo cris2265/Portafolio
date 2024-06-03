@@ -3,7 +3,7 @@ let paginas = document.querySelector(".repositorios");
 
 
 
-web.forEach ((cada_web)  => {
+ web.forEach ((cada_web)  => {
 
     let div_web = document.createElement("div")
     div_web.classList.add ("pages")
