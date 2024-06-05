@@ -2,8 +2,8 @@ let web = [
     {
         nombre: "Juego de cartas",
         img:"./img/juegoMemoria.png",
-        link_repo:"https://github.com/cris2265/Juego-memoria-2024",
-        github_page: "https://cris2265.github.io/Juego-memoria-2024/",
+        link_repo:"https://cris2265.github.io/Memoria/",
+        github_page: "https://cris2265.github.io/Memoria/",
         descripcion: "Es un Juego de memoria para niños"
     },
     {
@@ -11,14 +11,14 @@ let web = [
         img:"./img/todoList.png",
         link_repo:"https://github.com/cris2265/Todo_List2024",
         github_page: "https://cris2265.github.io/Todo_List2024/",
-        descripcion: "Es para hacer una listas de nose"
+        descripcion: "Es para hacer una listas de tareas por hacer"
     },
     {
-        nombre: "Diccionario",
-        img:"./img/diccionario.png",
-        link_repo:"https://github.com/cris2265/Diccionario-",
-        github_page: "https://cris2265.github.io/Diccionario-/",
-        descripcion: "Es para hacer una listas de nose"
+        nombre: "Calculadora",
+        img:"./img/calculadora.png",
+        link_repo:"https://cris2265.github.io/Calculadora/",
+        github_page: "https://cris2265.github.io/Calculadora/",
+        descripcion: "Una calculadora para tu vida diaria"
     }
     
 ]

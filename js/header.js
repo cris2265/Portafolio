@@ -1,6 +1,7 @@
 let header = `
     <div class="log">CH</div>
-    <nav>
+    <span class="material-symbols-outlined">menu</span>
+    <nav class="opciones">
         <div class=""> Opción_1</div>
         <div class=""> Opción_2</div>
         <div class=""> Opción_3</div>

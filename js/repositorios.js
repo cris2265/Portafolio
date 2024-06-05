@@ -12,7 +12,11 @@ let paginas = document.querySelector(".repositorios");
             <img src="${cada_web.img}" alt="">
             <h2 class="titulo">${cada_web.nombre}</h2>
             <p class="descripcion">${cada_web.descripcion}</p>
-            <div class="github">${cada_web.link_repo}</div>
+            <div class="github">
+                <a href="${cada_web.link_repo}">
+                    <span class="material-symbols-outlined">check</span>
+                </a>
+            </div>
         </a>
     `;
 
