@@ -3,12 +3,10 @@
     height: 80rem;
     display: grid;
     grid-template-columns: 15% 85%;
-    grid-template-rows: 8% 40% 50%;
 }
 @media screen and (min-width: 375px) and (max-width: 768px) {
     .root {
         display: grid;
-        grid-template-rows: 10% 20% 40rem 35%;
         gap: 1rem;
     }
     .header {
@@ -27,14 +25,13 @@
         width: 40%;
     }
     .div_caja_componente {
-        height: 80%;
         display: flex;
         flex-direction: column;
         align-items: center;
     }
-    .div_caja_componente > img {
-        width: 5rem;
-        height: 3rem;
+    .div_caja_componente  img {
+        width: 15rem;
+        height: 10rem;
         
     }
 
