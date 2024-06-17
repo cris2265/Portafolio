@@ -25,21 +25,29 @@ let web = [
         img:"./img/Indice.png",
         link_repo:"https://github.com/cris2265/IMC_2",
         github_page: "",
-        descripcion: "Una calculadora para tu vida diaria"    
+        descripcion: "Aplicacion que sirve para medir tu masa corporal"    
     },
     {
         nombre: "Generador Contraseña",
         img:"./img/Generador.png",
         link_repo:"https://github.com/cris2265/Generador_Contrase-a",
         github_page: "https://cris2265.github.io/Generador_Contrase-a/",
-        descripcion: "Una calculadora para tu vida diaria"    
+        descripcion: "Te crea automaticamente contraseñas unicas"    
     }, 
     {
         nombre: "Visualizador",
         img:"./img/Analizador.png",
         link_repo:"https://github.com/cris2265/Herr",
         github_page: "",
-        descripcion: "Una calculadora para tu vida diaria" 
+        descripcion: "para calcular cuantas palabras tiene un parrafo" 
+    }
+    , 
+    {
+        nombre: "Clone Pagina",
+        img:"./img/Pizza Hut New.png",
+        link_repo:"https://github.com/cris2265/Clone_pizzaHut",
+        github_page: "https://cris2265.github.io/Clone_pizzaHut/",
+        descripcion: "La clonacion de una pagina de un restaurante" 
     }
     
 ]
