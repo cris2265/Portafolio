@@ -40,16 +40,21 @@ let web = [
         link_repo:"https://github.com/cris2265/Herr",
         github_page: "",
         descripcion: "para calcular cuantas palabras tiene un parrafo" 
-    }
-    , 
+    }, 
     {
         nombre: "Clone Pagina",
         img:"./img/Pizza Hut New.png",
         link_repo:"https://github.com/cris2265/Clone_pizzaHut",
         github_page: "https://cris2265.github.io/Clone_pizzaHut/",
         descripcion: "La clonacion de una pagina de un restaurante" 
+    }, 
+    {
+        nombre: "Tienda",
+        img:"./img/Tienda.png",
+        link_repo:"https://github.com/cris2265/grupo2_tienda_2024",
+        github_page: "https://cris2265.github.io/grupo2_tienda_2024/",
+        descripcion: "Es una tienda creada por una API publica y gratuita" 
     }
-    
 ]
 
 
